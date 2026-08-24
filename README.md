@@ -111,7 +111,7 @@ SKT FLY AI CHALLENGER 8기
 ### Draw And You | AI 기반 심리 검사 그림 분석 및 맞춤형 컨텐츠 추천 시스템 (2025.09 ~ 2025.12)
 중앙대학교 캡스톤디자인(3-2) · AI 서버 단독 설계·개발
 
-- **역할:** AI 서버 설계·개발 (단독) · 발표
+- **역할:** AI 서버 설계·개발 (단독) · 발표 (3인 팀)
 - **Tech Stack:** `Python`, `FastAPI`, `LangChain`, `LangGraph`, `MCP`, `OpenAI API`, `Claude API`, `Gemini API`, `Docker`
 - **주요 성과:**
   - HTP·PITR 심리 검사 그림을 객체(40점)·시각 특징(40점)·후질문 일관성(20점)으로 정량화하는 채점 루브릭 설계, 점수를 절대 판단이 아닌 참고 지표로 해석하도록 가이드를 명시해 과잉 확신 억제
