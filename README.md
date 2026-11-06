@@ -30,22 +30,41 @@
 <img alt="OpenAI API" src="https://img.shields.io/badge/OpenAI%20API-FFFFFF?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPHBhdGggZD0iTTIyLjI4MTkgOS44MjExYTUuOTg0NyA1Ljk4NDcgMCAwIDAtLjUxNTctNC45MTA4IDYuMDQ2MiA2LjA0NjIgMCAwIDAtNi41MDk4LTIuOUE2LjA2NTEgNi4wNjUxIDAgMCAwIDQuOTgwNyA0LjE4MThhNS45ODQ3IDUuOTg0NyAwIDAgMC0zLjk5NzcgMi45IDYuMDQ2MiA2LjA0NjIgMCAwIDAgLjc0MjcgNy4wOTY2IDUuOTggNS45OCAwIDAgMCAuNTExIDQuOTEwNyA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNDYgMi45MDAxQTUuOTg0NyA1Ljk4NDcgMCAwIDAgMTMuMjU5OSAyNGE2LjA1NTcgNi4wNTU3IDAgMCAwIDUuNzcxOC00LjIwNTggNS45ODk0IDUuOTg5NCAwIDAgMCAzLjk5NzctMi45MDAxIDYuMDU1NyA2LjA1NTcgMCAwIDAtLjc0NzUtNy4wNzI5em0tOS4wMjIgMTIuNjA4MWE0LjQ3NTUgNC40NzU1IDAgMCAxLTIuODc2NC0xLjA0MDhsLjE0MTktLjA4MDQgNC43NzgzLTIuNzU4MmEuNzk0OC43OTQ4IDAgMCAwIC4zOTI3LS42ODEzdi02LjczNjlsMi4wMiAxLjE2ODZhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODI2YTQuNTA0IDQuNTA0IDAgMCAxLTQuNDk0NSA0LjQ5NDR6bS05LjY2MDctNC4xMjU0YTQuNDcwOCA0LjQ3MDggMCAwIDEtLjUzNDYtMy4wMTM3bC4xNDIuMDg1MiA0Ljc4MyAyLjc1ODJhLjc3MTIuNzcxMiAwIDAgMCAuNzgwNiAwbDUuODQyOC0zLjM2ODV2Mi4zMzI0YS4wODA0LjA4MDQgMCAwIDEtLjAzMzIuMDYxNUw5Ljc0IDE5Ljk1MDJhNC40OTkyIDQuNDk5MiAwIDAgMS02LjE0MDgtMS42NDY0ek0yLjM0MDggNy44OTU2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY1NS0xLjk3MjhWMTEuNmEuNzY2NC43NjY0IDAgMCAwIC4zODc5LjY3NjVsNS44MTQ0IDMuMzU0My0yLjAyMDEgMS4xNjg1YS4wNzU3LjA3NTcgMCAwIDEtLjA3MSAwbC00LjgzMDMtMi43ODY1QTQuNTA0IDQuNTA0IDAgMCAxIDIuMzQwOCA3Ljg3MnptMTYuNTk2MyAzLjg1NThMMTMuMTAzOCA4LjM2NCAxNS4xMTkyIDcuMmEuMDc1Ny4wNzU3IDAgMCAxIC4wNzEgMGw0LjgzMDMgMi43OTEzYTQuNDk0NCA0LjQ5NDQgMCAwIDEtLjY3NjUgOC4xMDQydi01LjY3NzJhLjc5Ljc5IDAgMCAwLS40MDctLjY2N3ptMi4wMTA3LTMuMDIzMWwtLjE0Mi0uMDg1Mi00Ljc3MzUtMi43ODE4YS43NzU5Ljc3NTkgMCAwIDAtLjc4NTQgMEw5LjQwOSA5LjIyOTdWNi44OTc0YS4wNjYyLjA2NjIgMCAwIDEgLjAyODQtLjA2MTVsNC44MzAzLTIuNzg2NmE0LjQ5OTIgNC40OTkyIDAgMCAxIDYuNjgwMiA0LjY2ek04LjMwNjUgMTIuODYzbC0yLjAyLTEuMTYzOGEuMDgwNC4wODA0IDAgMCAxLS4wMzgtLjA1NjdWNi4wNzQyYTQuNDk5MiA0LjQ5OTIgMCAwIDEgNy4zNzU3LTMuNDUzN2wtLjE0Mi4wODA1TDguNzA0IDUuNDU5YS43OTQ4Ljc5NDggMCAwIDAtLjM5MjcuNjgxM3ptMS4wOTc2LTIuMzY1NGwyLjYwMi0xLjQ5OTggMi42MDY5IDEuNDk5OHYyLjk5OTRsLTIuNTk3NCAxLjQ5OTctMi42MDY3LTEuNDk5N1oiLz48L3N2Zz4%3D"/>
 <img alt="Gemini API" src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white"/>
 <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
+<img alt="Hugging Face Transformers" src="https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
 
 **Language**<br>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
 
 **Backend**<br>
 <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 **Infra & Tools**<br>
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
+<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 
 
 ---
 
 ## 📚 주요 프로젝트
+
+### 🥇 SignMate | 한국어 → 한국수어 번역 서비스 (2026.06 ~ 2026.10)
+2026 경기청년 갭이어 - 도전과 변화 · 손뉴스 확장 프로젝트 · **정식 출시 운영 중** (Chrome 확장 프로그램 · Android 앱)<br>
+🏆 **경기청년 갭이어 우수참여자 경기도지사상** · 후속 지원 `프로젝트 플러스+` 선정
+
+- **역할:** AI 에이전트 파트 — 번역 모델 학습 · 매핑 에이전트 · AI 서버 (4인 팀)
+- **Tech Stack:** `Python`, `FastAPI`, `LangGraph`, `LangSmith`, `OpenAI API`, `KoBART`, `Transformers`, `PostgreSQL`, `Docker`, `AWS EC2·ECR·S3`, `GitHub Actions`
+- **주요 성과:**
+  - 국립국어원 병렬 말뭉치 32.9만 문장으로 한국어 → 수어 번역 모델(`KoBART`) 파인튜닝, 단순 유사 문장 검색 대비 번역 품질(BLEU) 3.3배
+  - 번역 모델의 오역을 바로잡는 LLM 에이전트 설계 — 검색은 코드가, 판단은 LLM이 맡도록 구조를 바꿔 실행마다 달라지던 결과를 안정화
+  - LLM이 없는 수어를 지어내거나 단어를 빠뜨리지 못하게 막는 검증 단계 구현
+  - 농인·수어 전문가 대상 현장 시연 후 피드백을 반영해 Chrome 확장 프로그램에서 Android 앱(문자 메시지 수어 변환)으로 확장
+- **Service:** 🔗[sign-mates.com](https://sign-mates.com/) · **Repository:** 🔗[sign-mate](https://github.com/sign-mate)
+
+<br>
 
 ### 🥇 손뉴스 | 청각장애인을 위한 AI 수어 뉴스 서비스 (2026.03)
 매일경제 x Anthropic “News to Action” AI 해커톤<br>
@@ -99,7 +118,7 @@ SKT FLY AI CHALLENGER 8기
 - **Tech Stack:** `Python`, `FastAPI`, `LangChain`, `LangGraph`, `LangSmith`, `OpenAI API`, `Gemini API`, `Docker`
 - **주요 성과:**
   - 병원·응급실 현장 조사를 통해 Pre-KTAS 분류 체계와 구급활동일지 표준 양식을 요구사항으로 정의
-  - 소분류 3,392개를 단일 프롬프트로 처리할 수 없는 문제를, 18 대분류 → 202 중분류 → 3,392 소분류로 후보를 좁히는 다단계 분류 그래프(9노드·조건 분기 4개)로 해결
+  - 약 3,400개 소분류를 단일 프롬프트로 처리할 수 없는 문제를, 18 대분류 → 약 200 중분류 → 약 3,400 소분류로 후보를 좁히는 다단계 분류 그래프(9노드·조건 분기 4개)로 해결
   - 이송 중 환자 상태 변화를 반영한 재평가 경로 설계 — 판단 노드가 재평가 시작 단계를 결정해 분기
   - 정보 부족 시 구급대원에게 추가 질문 후 세션을 중단·재개하는 HITL 흐름 구현 (LangGraph checkpointer)
   - 구급일지 자동화 — STT 텍스트와 분류 근거로 68개 항목을 선택해 고정 순서 벡터로 변환, 활력징후 모니터 이미지는 `Google Cloud Vision OCR`과 원본 이미지를 함께 LLM에 전달해 수치 추출
@@ -111,13 +130,14 @@ SKT FLY AI CHALLENGER 8기
 ### Draw And You | AI 기반 심리 검사 그림 분석 및 맞춤형 컨텐츠 추천 시스템 (2025.09 ~ 2025.12)
 중앙대학교 캡스톤디자인(3-2) · AI 서버 단독 설계·개발
 
-- **역할:** AI 서버 설계·개발 (단독) · 발표 (3인 팀)
-- **Tech Stack:** `Python`, `FastAPI`, `LangChain`, `LangGraph`, `MCP`, `OpenAI API`, `Claude API`, `Gemini API`, `Docker`
+- **역할:** AI 서버 설계·개발 (단독) · 발표
+- **Tech Stack:** `Python`, `FastAPI`, `LangChain`, `LangGraph`, `LangSmith`, `MCP`, `OpenAI API`, `Claude API`, `Gemini API`, `Docker`
 - **주요 성과:**
   - HTP·PITR 심리 검사 그림을 객체(40점)·시각 특징(40점)·후질문 일관성(20점)으로 정량화하는 채점 루브릭 설계, 점수를 절대 판단이 아닌 참고 지표로 해석하도록 가이드를 명시해 과잉 확신 억제
   - `Send` 기반 동적 분기로 3개 추천 에이전트를 병렬 실행 후 취합하는 LangGraph 파이프라인 구현
   - 빈 결과 발생 시 해당 카테고리만 선택적으로 재시도하는 조건 분기 루프 구현, 재시도 상한으로 무한 루프 차단
   - Spotify·YouTube MCP 서버를 ReAct 에이전트에 연결해 음악·영상 추천 자동화
+  - `LangSmith` 트레이스로 음악 추천 에이전트의 23.94초 병목을 발견 — 원인이 문서에 없던 Spotify 엔드포인트 deprecated임을 확인하고 `search` 도구로 전환, 그림 점수를 검색어로 바꾸는 전략을 새로 설계해 응답 시간을 10~20초로 안정화
   - Python 앱과 Node.js MCP 서버를 단일 컨테이너로 통합, MCP 서버를 빌드 시점에 버전 고정 설치해 런타임 다운로드 실패·콜드스타트 제거
 - **Repository:** 🔗[Draw And You AI Repository](https://github.com/DRAW-AND-YOU/AI)
 
